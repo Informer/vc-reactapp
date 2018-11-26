@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://informer.github.io/vc-reactapp",
   "dependencies": {
+    "firebase": "^5.5.9",
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
